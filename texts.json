@@ -8,5 +8,8 @@
     ],
     "title_speed": 20,
     "title_deletion_speed": 40
+  },
+  "guild_card": {
+    "user_details_warning": "You must set a username and profile picture before being able to complete quests. The username and profile picture must be unique and readable."
   }
 }
