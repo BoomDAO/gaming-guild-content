@@ -10,6 +10,6 @@
     "title_deletion_speed": 40
   },
   "guild_card": {
-    "user_details_warning": "You must set a username and profile picture before being able to complete quests. The username and profile picture must be unique and readable."
+    "user_details_warning": "You must set a username and profile picture before being able to complete quests. The username and profile picture must be unique and readable. Warning: duplicates accounts will lose their airdrop badge."
   }
 }
