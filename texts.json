@@ -14,6 +14,7 @@
     "setup_warning": "Duplicates accounts will lose their airdrop badge."
   },
   "blocked_country_info": {
-    "codes": ["US"]
+    "codes": ["US"],
+    "geo_blocking_info": "Unfortunately you as citizen of one of the following [] nations, not allowed to participate in this token launch sale."
   }
 }
