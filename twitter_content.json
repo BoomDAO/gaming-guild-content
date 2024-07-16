@@ -1,6 +1,6 @@
 {
   "twitter_quest": {
-    "title": "Retweet a Post and Comment",
+    "title": "Retweet a Post and Win Tokens",
     "link": "https://x.com/intent/retweet?tweet_id=1812853894604832866",
     "pop_up_text": "Click on below button to repost the tweet and comment on it.",
     "button_placeholder": "Retweet!"
