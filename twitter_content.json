@@ -1,8 +1,8 @@
 {
   "twitter_quest": {
-    "title": "Retweet the Tweet",
+    "title": "Retweet a Post and Comment",
     "link": "https://x.com/intent/retweet?tweet_id=1812853894604832866",
-    "pop_up_text": "Click on below button to re-share the tweet.",
+    "pop_up_text": "Click on below button to repost the tweet and comment on it.",
     "button_placeholder": "Retweet!"
   }
 }
