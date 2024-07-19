@@ -1,8 +1,8 @@
 {
   "twitter_quest": {
-    "title": "Retweet a Post and Win Tokens",
-    "link": "https://x.com/intent/retweet?tweet_id=1812853894604832866",
-    "pop_up_text": "Click on below button to repost the tweet and comment on it.",
-    "button_placeholder": "Retweet!"
+    "title": "POST ON TWITTER",
+    "link": "https://twitter.com/intent/post?text=I%20joined%20the%20BOOM%20Gaming%20Guilds%20and%20I%20received%20100%20BOOM%20tokens%20for%20doing%20quests%20in%20%24ICP%20games!%0D%0A%0D%0A%F0%9F%91%89%20guilds.boomdao.xyz%2F%20%F0%9F%91%88%0D%0A%0D%0ASign%20up%20now%20to%20earn%20tokens%20%26%20memecoins!%F0%9F%8F%86%0D%0A%0D%0A%23BOOMGUILD%0D%0A%0D%0A",
+    "pop_up_text": "Click Tweet button below to make a tweet about BOOM DAO and Tag 3 friends to get rewarded with BOOM tokens.",
+    "button_placeholder": "Tweet"
   }
 }
