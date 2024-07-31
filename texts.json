@@ -15,6 +15,6 @@
   },
   "blocked_country_info": {
     "codes": ["US", "ID", "SG", "MY"],
-    "geo_blocking_info": "Unfortunately you as citizen of one of the following [\"US\"] nations, not allowed to participate in this token launch sale."
+    "geo_blocking_info": "Unfortunately you as citizen of one of the following [\"US\", \"ID\", \"SG\", \"MY\"] nations, not allowed to participate in this token launch sale."
   }
 }
