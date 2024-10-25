@@ -14,7 +14,7 @@
     "setup_warning": "Duplicates accounts will lose their airdrop badge."
   },
   "blocked_country_info": {
-    "codes": ["US", "CN", "KP", "IR", "SY", "CU", "VE", "FR", "AE"], // USA, CHINA, NORTH KOREA, IRAN, SYRIA, CUBA, VENEZUELA, FRANCE, UAE
+    "codes": ["US", "CN", "KP", "IR", "SY", "CU", "VE", "FR", "AE"],
     "geo_blocking_info": "Unfortunately you as citizen of one of the following [ USA, CHINA, NORTH KOREA, IRAN, SYRIA, CUBA, VENEZUELA, FRANCE, UAE ] nations, not allowed to participate in this token launch sale."
   }
 }
