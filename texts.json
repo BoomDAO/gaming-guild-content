@@ -14,7 +14,7 @@
     "setup_warning": "Duplicates accounts will lose their BOOM Gaming Guilds QUEST PASS."
   },
   "blocked_country_info": {
-    "codes": [],
-    "geo_blocking_info": "Unfortunately you as citizen of one of the following [ USA, CHINA, NORTH KOREA, IRAN, SYRIA, CUBA, VENEZUELA, FRANCE, UAE ] nations, not allowed to participate in this token launch sale."
+    "codes": ["AE"],
+    "geo_blocking_info": "Unfortunately you as citizen of one of the following [ UAE ] nations, not allowed to participate in this token launch sale."
   }
 }
