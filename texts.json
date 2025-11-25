@@ -14,7 +14,7 @@
     "setup_warning": "Duplicates accounts will lose their BOOM Gaming Guilds QUEST PASS."
   },
   "blocked_country_info": {
-    "codes": [],
+    "codes": ["AE", "IN"],
     "geo_blocking_info": "Something went wrong, issues are getting fixed. Try again later."
   }
 }
